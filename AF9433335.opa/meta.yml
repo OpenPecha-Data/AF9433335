@@ -1,0 +1,20 @@
+id: AF9433335
+title: Toh_70-The_Sutra_of_the_Question_of_Subahu-v1
+type: translation
+pechas:
+- I1135CBB6
+- I0EEE68C4
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-043-007
+  eft-text-version: 1.1.10 2020
+  title: Toh_70-The_Sutra_of_the_Question_of_Subahu-v1
+alignment_to_base:
+  I1135CBB6/EA0D: F02A
+  I0EEE68C4/95E6: F02A
